@@ -157,7 +157,7 @@ void loop()
         pageTuning();
         break;
       case PAGE_AE:
-        pageAE();
+        //pageAE();
         break;
       case PAGE_AFRGRAPH:
         pageAFRGraph();

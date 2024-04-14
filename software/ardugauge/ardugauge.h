@@ -1,6 +1,6 @@
 #define SERIAL_UPDATE_MS  100
 
-#define TEST // De-comment to enter test mode
+//#define TEST // De-comment to enter test mode
 
 /* ----- Engine status ----- */
 #define ENGINE_OFF		0 
